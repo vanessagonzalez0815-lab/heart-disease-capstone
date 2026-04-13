@@ -7,7 +7,6 @@ Predict heart disease status from behavioral and socioeconomic health indicators
 #About the Data
 Source: [Heart Disease Health Indicators Dataset on Kaggle](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset) by Alex Teboul
 Original Data: CDC BRFSS 2015 (Behavioral Risk Factor Surveillance System)
-File: `heart_disease_health_indicators_BRFSS2015.csv`
 Data Points: 253,610 
 Features: 22
 <img width="3330" height="455" alt="image" src="https://github.com/user-attachments/assets/1c61795e-f694-44b3-94eb-dc414cb223ed" />
